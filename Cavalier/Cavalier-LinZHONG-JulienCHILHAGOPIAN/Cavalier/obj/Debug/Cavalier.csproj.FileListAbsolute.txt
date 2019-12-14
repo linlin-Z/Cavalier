@@ -1,0 +1,34 @@
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.csprojAssemblyReference.cache
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.Jeu.resources
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.Properties.Resources.resources
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.csproj.GenerateResource.cache
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.csproj.CoreCompileInputs.cache
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\bin\Debug\Cavalier.exe.config
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\bin\Debug\Cavalier.exe
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\bin\Debug\Cavalier.pdb
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.exe
+Z:\CSharp\projet-cavalier\Cavalier\Cavalier\obj\Debug\Cavalier.pdb
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\bin\Debug\Cavalier.exe.config
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\bin\Debug\Cavalier.exe
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\bin\Debug\Cavalier.pdb
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.csprojAssemblyReference.cache
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.Jeu.resources
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.Properties.Resources.resources
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.csproj.GenerateResource.cache
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.exe
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.pdb
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\obj\Debug\Cavalier.Simulation.resources
+\\Mac\Home\Documents\IUT-PARIS\Cavalier\Cavalier\bin\Debug\images\cavalier.png
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\bin\Debug\images\cavalier.png
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\bin\Debug\Cavalier.exe.config
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\bin\Debug\Cavalier.exe
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\bin\Debug\Cavalier.pdb
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.csprojAssemblyReference.cache
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.Jeu.resources
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.Properties.Resources.resources
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.Simulation.resources
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.csproj.GenerateResource.cache
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.exe
+C:\Users\user\Desktop\linlin\PARIS 5 IUT Cours\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier-LinZHONG-JulienCHILHAGOPIAN\Cavalier\obj\Debug\Cavalier.pdb
